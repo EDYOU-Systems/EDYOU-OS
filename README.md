@@ -1,6 +1,4 @@
-# EDYOU OS 🏔️
-
-![EDYOU OS Logo](watermark.png)
+#![EDYOU OS Logo](watermark.png)
 
 ### **Education for You!**
 
