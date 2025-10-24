@@ -8,7 +8,7 @@ Built on the solid foundation of **Debian/Ubuntu LTS**, EDYOU OS delivers a clea
 
 ---
 
-## 🌍 What is EDYOU OS?
+## What is EDYOU OS?
 
 EDYOU OS is designed for **education without compromise**.  
 It’s a lightweight, easy-to-use system built specifically for classrooms, computer labs, and learning environments that value **privacy, simplicity, and control**.
@@ -21,7 +21,7 @@ It’s a lightweight, easy-to-use system built specifically for classrooms, comp
 
 ---
 
-## 🏔️ The Meaning Behind the Mountain
+## The Meaning Behind the Mountain
 
 The mountain in the EDYOU OS logo represents **growth, progress, and learning**.  
 Just like education, every step up the mountain takes effort, curiosity, and dedication.  
@@ -34,7 +34,7 @@ It stands for:
 
 ---
 
-## 💡 The Name: “EDYOU”
+## The Name: “EDYOU”
 
 > **ED** = Education  
 > **YOU** = For every learner and educator  
@@ -45,7 +45,7 @@ Every school deserves technology that empowers rather than limits.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 | Category | Highlights |
 |-----------|-------------|
@@ -58,7 +58,7 @@ Every school deserves technology that empowers rather than limits.
 
 ---
 
-## 🎓 Built for Every School
+## Built for Every School
 
 Whether it’s a small classroom or a full campus network,  
 **EDYOU OS** is made for schools that believe in **digital freedom, privacy, and performance**.  
@@ -71,12 +71,12 @@ Just a fast, secure, and open system that gives every learner the tools to grow.
 
 ---
 
-## 🏁 Slogan
+## Slogan
 
 > **Education for You!**
 
 ---
 
-**EDYOU OS 🏔️**  
+**EDYOU OS**  
 A new generation of school operating systems —  
 built on freedom, powered by education.
